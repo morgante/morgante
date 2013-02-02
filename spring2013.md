@@ -27,6 +27,12 @@ This isn't an excuse, but it is a reason.
 	* Programming for HippFlow (40hrs/week)
 	* Launch FundShift
 	* Maintain Crassus Investments
+	* Advisor for Global Canvas
+* Internships
+	* Summer planning (HackNY, etc.)
+	* Sana, computer science
+	* Adam, polymatch development
+	* More?
 * "Side" Projects
 	* Baladna org & competition
 	* Platform?
