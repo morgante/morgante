@@ -14,15 +14,15 @@ This isn't an excuse, but it is a reason.
 		* Bickel & Brewer (NYU-NY)
 		* Vienna
 	* Entrepreneurship Club
+	* Model UN
 	* The Gazelle
 		* Website setup
 		* Editorial workflow plugin for Habari
 * Student Government
 	* Reseach & Development Committee
 		* Bus App
-		* New Voting System
+		* Refine System
 		* Attendance System
-	* Alternate Senator?
 * Business
 	* Programming for HippFlow (40hrs/week)
 	* Launch FundShift
@@ -36,4 +36,4 @@ This isn't an excuse, but it is a reason.
 * "Side" Projects
 	* Baladna org & competition
 	* Platform?
-	* Shape?
+	* Fitness?
