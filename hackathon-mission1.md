@@ -10,3 +10,9 @@ Aim of this day: choose a problem and brainstorm/plan a solution
 4. Get your development environment configured using our tools:
   * Development tools guide: http://bit.ly/X0mOiK
   * Hackathon server information: http://bit.ly/VREi2p 
+5. Sign up on [Hacker League](https://www.hackerleague.org/), where all teams will be expected to post their projects.
+  * Register here: http://bit.ly/XoT7Yq
+  * Join our hackathon: http://bit.ly/YfXEL3
+
+
+You can find a digital copy of this mission at: 
