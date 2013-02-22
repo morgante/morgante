@@ -15,4 +15,4 @@ Aim of this day: choose a problem and brainstorm/plan a solution
   * Join our hackathon: http://bit.ly/YfXEL3
 
 
-You can find a digital copy of this mission at: 
+You can find a digital copy of this mission at: http://bit.ly/XPM07l
