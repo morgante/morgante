@@ -5,8 +5,9 @@ Here we go! It’s now time to flesh out your idea and get into 3 days of intens
 Aim of this day: choose a problem and brainstorm/plan a solution
 
 1. Discuss the problem which you face
+2. Explore resources and research solutions: http://bit.ly/We8AXZ
 2. Decide on a target user demographic
-3. Choose a realistic solution which can be implemented in 3 days 
+3. Choose a realistic solution which can be implemented in 3 days
 4. Get your development environment configured using our tools:
   * Development tools guide: http://bit.ly/X0mOiK
   * Hackathon server information: http://bit.ly/VREi2p 
