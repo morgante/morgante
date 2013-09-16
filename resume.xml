@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<resume>
+	<person>
+		<name>
+			<first>Morgante</first>
+			<middle>Orion</middle>
+			<last>Pell</last>
+		</name>
+		<alias>
+			<first>Arthus</first>
+			<last>Erea</last>
+		</alias>
+		<link type="blog" name="Newly Ancient" scope="personal">http://myfla.ws</link>
+		<link type="website" name="MasterMade" scope="professional">http://mastermade.us</link>
+	</person>
+	<items>
+		<item type="position" scope="educational" id="hcs9907">
+			<name>Hinesburg Community School</name>
+			<tags>school education elementary middle primary highlight</tags>
+			<start>904622400</start>
+			<end>1181793600</end>
+			<description>Student at Hinesburg Community School, an elementary and middle school, with an A average.</description>
+			<link>http://hcsvt.org</link>
+		</item>
+		<item type="award" scope="educational" id="infinitymath07">
+			<name>Mathematics Award</name>
+			<tags>school education middle mathematics infinity hcs</tags>
+			<end>1181793600</end>
+			<description>Mathematics award for excellence in mathematics on the Infinity Team at Hinesburg Community School</description>
+		</item>
+		<item type="award" scope="educational" id="infinityss07">
+			<name>Social Sciences Award</name>
+			<tags>school education middle social science history current events infinity hcs</tags>
+			<end>1181793600</end>
+			<description>Social Sciences award for excellence in social sciences on the Infinity Team at Hinesburg Community School</description>
+		</item>
+		<item type="portfolio" scope="professional" id="isi07">
+			<name>ISI Contact Form Design</name>
+			<tags>isi contact form design development php mysql</tags>
+			<start>1184817600</start>
+			<end>1192161600</end>
+			<description>When Scott Shumway came to me, he had handled customer responses simply by posting his email address. Frustrated with the amount of spam and inadequate responses he was receiving, I was hired to design and develop a contact form which would have specific requirements and be accessible via a web-based interface as well as via email.</description>
+			<role>Design</role>
+			<role>Development</role>
+			<link name="Industrial Services, INC.">http://desalt.net/contact/</link>
+			<attach rel="image/png" id="isi0708">
+				<name>contact page overview</name>
+				<link>attachments/isi0708.png</link>
+				<featured />
+			</attach>
+			<attach rel="image/png" id="isi0701">
+				<name>header and navigation</name>
+				<link>attachments/isi0701.png</link>
+			</attach>
+			<attach rel="image/png" id="isi0702">
+				<name>contact form intro text</name>
+				<link>attachments/isi0702.png</link>
+			</attach>
+			<attach rel="image/png" id="isi0703">
+				<name>contact form fields</name>
+				<link>attachments/isi0703.png</link>
+			</attach>
+			<attach rel="image/png" id="isi0704">
+				<name>admin interface list view</name>
+				<link>attachments/isi0704.png</link>
+			</attach>
+			<attach rel="image/png" id="isi0705">
+				<name>admin interface single submission view</name>
+				<link>attachments/isi0705.png</link>
+			</attach>
+			<attach rel="image/png" id="isi0706">
+				<name>admin interface single submission content</name>
+				<link>attachments/isi0706.png</link>
+			</attach>
+			<attach rel="image/png" id="isi0707">
+				<name>admin interface delete entry</name>
+				<description>Notice that deleted submissions can be recovered.</description>
+				<link>attachments/isi0707.png</link>
+			</attach>
+		</item>
+		<item type="event" scope="educational" id="kmoh2007fall">
+			<name>Fall 2007 Knowledge Master Open</name>
+			<tags>fall knowledge master open scholars bowl</tags>
+			<start>1196799300</start>
+			<end>1196803800</end>
+			<description>Participated in <a href="http://en.wikipedia.org/wiki/Knowledge_Masters">Knowledge Masters Open</a> on team which scored 1629, ranked 21st.</description>
+			<attach rel="application/pdf" id="kmoh2007fall_results">
+				<name>Results</name>
+				<link>attachments/kmoh2007fall_results.pdf</link>
+			</attach>
+		</item>
+		<item type="event" scope="educational" id="educon2008">
+			<name>EduCon 2.0</name>
+			<tags>conference educon education technology presentation highlight</tags>
+			<start>1201323600</start>
+			<end>1201410000</end>
+			<description>Presentation at EduCon 2.0 conference upon student leadership and self-directed learning</description>
+			<link name="EduCon 2.0 wiki">http://educon20.wikispaces.com</link>
+			<link name="Presentation wiki">http://learn-teach.wikispaces.com</link>
+		</item>
+		<item type="award" scope="educational" id="debate2010">
+			<name>Pocket Constitution</name>
+			<tags>school education government politics cvu</tags>
+			<end>1274696360</end>
+			<description>Pocket constitution given by Vince Crockenburg to top 3 students in AP US Government and Politics.</description>
+		</item>
+		<item type="award" scope="educational" id="debate2010">
+			<name>Debate Team Award</name>
+			<tags>school education debate cvu</tags>
+			<end>1275008400</end>
+			<description>Award for excellent performance on the CVU debate team.</description>
+		</item>
+		<item type="award" scope="educational" id="rit2010">
+			<name>RIT Computing Medal</name>
+			<tags>school education rit cvu "rochester institute of technology" computing technology</tags>
+			<end>1275008400</end>
+			<description>Award for excellence in computing and academics.</description>
+		</item>
+		<item type="award" scope="educational" id="apstats2010">
+			<name>AP Probability &amp; Statistics Award</name>
+			<tags>school education mathematics cvu</tags>
+			<end>1275008400</end>
+			<description>Teacher award for excellence in AP Probability &amp; Statistics class.</description>
+		</item>
+	</items>
+</resume>
