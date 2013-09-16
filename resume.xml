@@ -21,7 +21,7 @@
 			<start>September 2012</start>
 			<end>May 2016</end>
 			<link>https://github.com/nyuadsg</link>
-			<description>As a student at NYUAD, NYU's new <strong>honors college</strong> in the Middle East, I study a <strong>liberal arts</strong> curriculum, concentrating in computer science, economics, and political science. As the chair of the student government's <strong>research &amp; development committee</strong>, I develop technical solutions for students, including an <strong>OAuth</strong>-based student directory written in <strong>Node.js</strong> and deployed on <strong>Heroku</strong>.</description>
+			<description>As a student at NYUAD, NYU's new **honors college** in the Middle East, I study a **liberal arts** curriculum, concentrating in computer science, economics, and political science. As the chair of the student government's **research &amp; development committee**, I develop technical solutions for students, including an **OAuth**-based student directory written in **Node.js** and deployed on **Heroku**.</description>
 		</item>
 		<item type="position" scope="education" id="uwc">
 			<name>United World College - USA</name>
@@ -30,7 +30,7 @@
 			<start>September 2010</start>
 			<end>May 2012</end>
 			<link>http://en.wikipedia.org/wiki/Armand_Hammer_United_World_College_of_the_American_West</link>
-			<description>Together with 200 students from 70 different countries, I studied the <strong>International Baccalaureate</strong> on a <strong>full scholarship</strong> at this international boarding school in <strong>New Mexico</strong>. While there, I transitioned the <strong>student government</strong> to an electronic voting system, organized the school&apos;s <strong>annual conference</strong>, and pioneered a computational approach to conflict resolution (our forté) with <strong>agent-based modeling</strong>.</description>
+			<description>Together with 200 students from 70 different countries, I studied the **International Baccalaureate** on a **full scholarship** at this international boarding school in **New Mexico**. While there, I transitioned the **student government** to an electronic voting system, organized the school&apos;s **annual conference**, and pioneered a computational approach to conflict resolution (our forté) with **agent-based modeling**.</description>
 		</item>
 		<item type="position" scope="education" id="cvu">
 			<name>Champlain Valley Union High School</name>
