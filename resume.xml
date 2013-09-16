@@ -17,7 +17,7 @@
 		<item type="position" scope="education" id="nyuad">
 			<name>NYU Abu Dhabi</name>
 			<tags>school nyu ad highlight important</tags>
-			<location>Abu Dhabi, UAE</location>
+			<location>Abu Dhabi</location>
 			<start>September 2012</start>
 			<end>May 2016</end>
 			<link>https://github.com/nyuadsg</link>
@@ -26,7 +26,7 @@
 		<item type="position" scope="education" id="uwc">
 			<name>United World College - USA</name>
 			<tags>school uwc important</tags>
-			<location>Montezuma, NM</location>
+			<location>New Mexico</location>
 			<start>September 2010</start>
 			<end>May 2012</end>
 			<link>http://en.wikipedia.org/wiki/Armand_Hammer_United_World_College_of_the_American_West</link>
@@ -35,7 +35,7 @@
 		<item type="position" scope="education" id="cvu">
 			<name>Champlain Valley Union High School</name>
 			<tags>school high important</tags>
-			<location>Hinesburg, VT</location>
+			<location>Vermont</location>
 			<start>September 2007</start>
 			<end>June 2010</end>
 		</item>
@@ -43,7 +43,7 @@
 		<item type="position" scope="educational" id="hcs9907">
 			<name>Hinesburg Community School</name>
 			<tags>school education elementary middle primary</tags>
-			<location>Hinesburg, VT</location>
+			<location>Vermont</location>
 			<start>904622400</start>
 			<end>1181793600</end>
 			<description>Student at Hinesburg Community School, an elementary and middle school, with an A average.</description>
@@ -118,7 +118,7 @@
 		</item>
 		<item type="event" scope="educational" id="educon2008">
 			<name>EduCon 2.0</name>
-			<tags>conference educon education technology presentation important</tags>
+			<tags>conference educon education technology presentation</tags>
 			<start>1201323600</start>
 			<end>1201410000</end>
 			<description>Presentation at EduCon 2.0 conference upon student leadership and self-directed learning</description>
