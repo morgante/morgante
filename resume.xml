@@ -54,7 +54,7 @@
 		</item>
 		<item type="event" id="educon2008">
 			<name>EduCon 2.0</name>
-			<scopes>education</scope>
+			<scopes>education</scopes>
 			<tags>conference educon education technology presentation</tags>
 			<start>1201323600</start>
 			<end>1201410000</end>
