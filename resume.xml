@@ -42,25 +42,5 @@
 			<start>September 2007</start>
 			<end>June 2010</end>
 		</item>
-		<item type="position" id="hcs9907">
-			<name>Hinesburg Community School</name>
-			<scopes>education</scopes>
-			<tags>school education elementary middle primary</tags>
-			<location>Vermont</location>
-			<start>904622400</start>
-			<end>1181793600</end>
-			<description>Student at Hinesburg Community School, an elementary and middle school, with an A average.</description>
-			<link>http://hcsvt.org</link>
-		</item>
-		<item type="event" id="educon2008">
-			<name>EduCon 2.0</name>
-			<scopes>education</scopes>
-			<tags>conference educon education technology presentation</tags>
-			<start>1201323600</start>
-			<end>1201410000</end>
-			<description>Presentation at EduCon 2.0 conference upon student leadership and self-directed learning</description>
-			<link name="EduCon 2.0 wiki">http://educon20.wikispaces.com</link>
-			<link name="Presentation wiki">http://learn-teach.wikispaces.com</link>
-		</item>
 	</items>
 </resume>
