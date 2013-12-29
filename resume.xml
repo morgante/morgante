@@ -16,7 +16,7 @@
 	<items>
 		<item type="position" id="nyuad">
 			<name>NYU Abu Dhabi</name>
-			<scopes>education cs econ</scopes>
+			<scopes>education cs business</scopes>
 			<tags>school nyu ad highlight important</tags>
 			<location>Abu Dhabi</location>
 			<start>September 2012</start>
