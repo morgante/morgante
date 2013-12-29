@@ -34,7 +34,7 @@
 			<link>http://en.wikipedia.org/wiki/Armand_Hammer_United_World_College_of_the_American_West</link>
 			<description>Together with 200 students from 70 different countries, I studied the **International Baccalaureate** on a **full scholarship** at this international boarding school in **New Mexico**. While there, I transitioned the **student government** to an electronic voting system, organized the school&apos;s **annual conference**, and pioneered a computational approach to conflict resolution (our forté) with **agent-based modeling**.</description>
 		</item>
-		<item type="position" scope="education" id="cvu">
+		<item type="position" id="cvu">
 			<name>Champlain Valley Union High School</name>
 			<scopes>education</scopes>
 			<tags>school high important</tags>
@@ -42,7 +42,7 @@
 			<start>September 2007</start>
 			<end>June 2010</end>
 		</item>
-		<item type="position" scope="educational" id="hcs9907">
+		<item type="position" id="hcs9907">
 			<name>Hinesburg Community School</name>
 			<scopes>education</scopes>
 			<tags>school education elementary middle primary</tags>
@@ -52,9 +52,9 @@
 			<description>Student at Hinesburg Community School, an elementary and middle school, with an A average.</description>
 			<link>http://hcsvt.org</link>
 		</item>
-		<item type="event" scope="educational" id="educon2008">
+		<item type="event" id="educon2008">
 			<name>EduCon 2.0</name>
-			<scope>education</scope>
+			<scopes>education</scope>
 			<tags>conference educon education technology presentation</tags>
 			<start>1201323600</start>
 			<end>1201410000</end>
