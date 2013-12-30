@@ -44,7 +44,7 @@
 		</item>
 		<item type="position" id="csintern">
 			<name>CS Intern</name>
-			<scopes>tech education</scopes>
+			<scopes>businestech education</scopes>
 			<location>Abu Dhabi</location>
 			<start>January 2013</start>
 			<end>May 2013</end>
@@ -65,7 +65,7 @@
 		</item>
 		<item type="position" id="sila">
 			<name>Sila Connection</name>
-			<scopes>business education</scopes>
+			<scopes>business tech education</scopes>
 			<location>Abu Dhabi</location>
 			<start>October 2012</start>
 			<end>May 2013</end>
