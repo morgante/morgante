@@ -14,20 +14,25 @@
 		<link type="website" name="MasterMade" scope="professional">http://mastermade.us</link>
 	</person>
 	<items>
+		<item type="position" id="bi">
+			<name>Business Insider</name>
+			<scopes>tech business</scopes>
+			<location>New York</location>
+			<start>June 2013</start>
+			<link>https://businessinsider.com</link>
+		</item>
 		<item type="position" id="nyuad">
 			<name>NYU Abu Dhabi</name>
 			<scopes>education tech business</scopes>
-			<tags>school nyu ad highlight important</tags>
 			<location>Abu Dhabi</location>
 			<start>September 2012</start>
 			<end>May 2016</end>
 			<link>https://github.com/nyuadsg</link>
-			<description>As a student at NYUAD, NYU's new **honors college** in the Middle East, I study a **liberal arts** curriculum, concentrating in computer science, economics, and political science. As the chair of the student government's **research &amp; development committee**, I develop technical solutions for students, including an **OAuth**-based student directory written in **Node.js** and deployed on **Heroku**.</description>
+			<description>As a student at NYUAD, NYU's new **honors college** in the Middle East, I study a **liberal arts** curriculum, concentrating in computer science and economics.</description>
 		</item>
 		<item type="position" id="uwc">
 			<name>United World College - USA</name>
 			<scopes>education</scopes>
-			<tags>school uwc important</tags>
 			<location>New Mexico</location>
 			<start>September 2010</start>
 			<end>May 2012</end>
