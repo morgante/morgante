@@ -21,6 +21,48 @@
 			<start>June 2013</start>
 			<link>https://businessinsider.com</link>
 		</item>
+		<item type="position" id="mastermade">
+			<name>MasterMade Technology</name>
+			<scopes>tech business</scopes>
+			<location>Vermont</location>
+			<start>June 2005</start>
+			<link>https://mastermade.us</link>
+		</item>
+		<item type="position" id="crassus">
+			<name>Crassus Investments</name>
+			<scopes>business</scopes>
+			<location>New Mexico</location>
+			<start>May 2011</start>
+			<link>https://crassusinvest.com</link>
+		</item>
+		<item type="position" id="csintern">
+			<name>NYUAD Computer Science Intern</name>
+			<scopes>business tech education</scopes>
+			<location>Abu Dhabi</location>
+			<start>September 2012</start>
+			<end>May 2013</end>
+		</item>
+		<item type="position" id="globalclassroom">
+			<name>Global Classroom</name>
+			<scopes>business tech</scopes>
+			<location>Vermont</location>
+			<start>June 2008</start>
+			<end>August 2008</end>
+		</item>
+		<item type="position" id="students2oh">
+			<name>Students 2.0</name>
+			<scopes>business education</scopes>
+			<location>Vermont</location>
+			<start>November 2007</start>
+			<end>January 2009</end>
+		</item>
+		<item type="position" id="sila">
+			<name>Sila Connection</name>
+			<scopes>business education</scopes>
+			<location>Abu Dhabi</location>
+			<start>September 2012</start>
+			<end>May 2013</end>
+		</item>
 		<item type="position" id="nyuad">
 			<name>NYU Abu Dhabi</name>
 			<scopes>education tech business</scopes>
