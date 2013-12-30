@@ -65,7 +65,7 @@
 		</item>
 		<item type="position" id="sila">
 			<name>Sila Connection</name>
-			<scopes>business tech education</scopes>
+			<scopes>tech education</scopes>
 			<location>Abu Dhabi</location>
 			<start>October 2012</start>
 			<end>May 2013</end>
