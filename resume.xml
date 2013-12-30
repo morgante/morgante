@@ -28,6 +28,13 @@
 			<start>June 2005</start>
 			<link>https://mastermade.us</link>
 		</item>
+		<item type="position" id="hackny">
+			<name>HackNY</name>
+			<scopes>business tech</scopes>
+			<location>New York</location>
+			<start>June 2013</start>
+			<end>August 2013</end>
+		</item>
 		<item type="position" id="crassus">
 			<name>Crassus Investments</name>
 			<scopes>business</scopes>
@@ -36,8 +43,8 @@
 			<link>https://crassusinvest.com</link>
 		</item>
 		<item type="position" id="csintern">
-			<name>Computer Science Intern</name>
-			<scopes>business tech education</scopes>
+			<name>CS Intern</name>
+			<scopes>tech education</scopes>
 			<location>Abu Dhabi</location>
 			<start>January 2013</start>
 			<end>May 2013</end>
