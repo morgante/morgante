@@ -3,6 +3,9 @@ Fitness: Phase 1
 
 This document describes my plans for improving and maintaining fitness in phase 1.
 
+## Timeline
+Phase 1 begins on April 13, 2014.
+
 ## Objectives
 
  - The objective of this program is to lower my weight from **275 lbs** to **185 lbs**.
