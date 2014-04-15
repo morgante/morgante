@@ -45,3 +45,24 @@ Snacks:
 
 - One slice of white bread with peanut butter
 - One slice of white bread with cream cheese
+
+## Tuesday (April 15, 2014)
+### Diet
+Breakfast:
+
+- One croissant
+- One water
+
+Lunch: skipped
+
+Dinner:
+
+- One serving of pesto pasta
+- 3 pieces of pita bread
+- 1 roll
+- one serving of hummus
+- one water
+- 5 chicken nuggets
+
+### Sleep
+I accidentally slept all afternoon (1pm–6pm). This was likely due to not sleeping 6 hours the previous night. Henceforth, 6 hours of sleep is absolutely mandatory and no afternoon naps shall be taken.
