@@ -64,5 +64,34 @@ Dinner:
 - one water
 - 5 chicken nuggets
 
+Snacks:
+
+- Ritz crackers (12 crackers)
+- Spreadable cream cheese (120 g)
+- Milk bread (6 slices)
+
 ### Sleep
 I accidentally slept all afternoon (1pm–6pm). This was likely due to not sleeping 6 hours the previous night. Henceforth, 6 hours of sleep is absolutely mandatory and no afternoon naps shall be taken.
+
+## Wednesday (April 16, 2014)
+### Diet
+Breakfast:
+
+- One chocolate croissant
+- One fruit cocktail carton
+
+Lunch:
+
+- Chicken mayonaisse sandwich on white bread
+
+Dinner:
+
+- One hamburger with cheese and bread
+- Fries
+- Fruit salad (1/2 cup)
+
+Snacks:
+
+- 6 slices of white bread
+- 2 tablespoons of spreadable cream cheese
+- 4 Ritz crackers
