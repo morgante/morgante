@@ -1,7 +1,26 @@
 Phase 1: Week 1
 ---------------
 
-April 13, 2014
+April 13, 2014 – April 19, 2014
+
+# Reflection
+This week was a decent start, but had some unfortunate mood swings over the weekend. These depressive episdes led to overeating, particularly on Saturday. Additionally, on Wednesday and Thursday I slept far too much (all afternoon) and missed my planned exercise.
+
+However, not all was bad. In particular, I am happy about:
+
+- Maintaing order on my to do list
+- Following through on the commitment to not drink soda or eat ice cream (D1 and D2)
+- Beginning to log all activity
+- Maintaing a clean work environment
+
+Recommended improvements and revisions include:
+
+- Sleeping at least 6 hours a night. Required. Mandatory.
+- Socialize more: have at least one social interaction per week.
+- When I am feeling down, donate to UWC-USA.
+- Pretend to be happy. It will help with everything.
+- Work on ABCupid more.
+- Explore spirituality. Spend 1 hour a week reflecting.
 
 ## Sunday (April 13, 2014)
 ### Diet
