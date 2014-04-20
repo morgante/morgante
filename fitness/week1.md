@@ -3,7 +3,7 @@ Phase 1: Week 1
 
 April 13, 2014 – April 19, 2014
 
-# Reflection
+## Reflection
 This week was a decent start, but had some unfortunate mood swings over the weekend. These depressive episdes led to overeating, particularly on Saturday. Additionally, on Wednesday and Thursday I slept far too much (all afternoon) and missed my planned exercise.
 
 However, not all was bad. In particular, I am happy about:
@@ -21,6 +21,13 @@ Recommended improvements and revisions include:
 - Pretend to be happy. It will help with everything.
 - Work on ABCupid more.
 - Explore spirituality. Spend 1 hour a week reflecting.
+
+## Progress
+- E1: fail
+- E2: fail
+- D1: success
+- D2: success
+- D3: success (partial)
 
 ## Sunday (April 13, 2014)
 ### Diet
@@ -120,7 +127,7 @@ Snacks:
 Beginning Thursday, all diet tracking moved to FitBit.
 
 ## Friday (April 18, 2014)
-Slept all day. Played Civilization V.
+Slept all day. Played Civilization V. Did not record meals properly.
 
 ## Saturday (April 19, 2014)
-Slept all day.
+Slept all day. Did not record meals properly.
