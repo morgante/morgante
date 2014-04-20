@@ -34,6 +34,6 @@ Phase 1 begins on April 13, 2014.
 - M2: I will engage on social activity at least once a week. It cannot be school or work-related.
 
 ## Process
-At the end of each week, a log will be written and committed to this repository. It will include information on my current weight, eating habits, exercise habits, and overall wellbeing.
+At the end of each week, a log will be written and committed to this repository. It will include information on my current weight, eating habits, exercise habits, and overall wellbeing. This weekly review will be held on Saturday afternoon.
 
 It will make a holistic evaluation of my progress. If I am failing to progress towards my goals, this phase plan will be altered to improve my progress. If I am feeling good about progress, I will move to phase 2, which will be drafted to include additional methods of fitness improvement. Phase 2 will also be automatically triggered if my weight falls to 265 lbs.
