@@ -22,6 +22,17 @@ Phase 1 begins on April 13, 2014.
 - D2: I will eliminate ice cream and frozen yogurt from my diet.
 - D3: I will log all meals and caloric consumption.
 
+### Mental Health
+
+- H1: Ever Saturday at 5pm, I will spend 30 minutes in quiet contemplation.
+- H2: Smile. Pretend to be happy.
+- H3: When I am feeling unhappy, I will donate to UWC-USA.
+
+### Misc.
+
+- M1: I will sleep 6 hours a night. The latest I can stay up on a week night is 3am.
+- M2: I will engage on social activity at least once a week. It cannot be school or work-related.
+
 ## Process
 At the end of each week, a log will be written and committed to this repository. It will include information on my current weight, eating habits, exercise habits, and overall wellbeing.
 
