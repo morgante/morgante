@@ -18,9 +18,9 @@ Phase 1 begins on April 13, 2014.
 
 ### Diet
 
-- I will eliminate soda and soft drinks from my diet.
-- I will eliminate ice cream and frozen yogurt from my diet.
-- I will log all meals and caloric consumption.
+- D1: I will eliminate soda and soft drinks from my diet.
+- D2: I will eliminate ice cream and frozen yogurt from my diet.
+- D3: I will log all meals and caloric consumption.
 
 ## Process
 At the end of each week, a log will be written and committed to this repository. It will include information on my current weight, eating habits, exercise habits, and overall wellbeing.
