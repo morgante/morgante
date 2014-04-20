@@ -95,3 +95,13 @@ Snacks:
 - 6 slices of white bread
 - 2 tablespoons of spreadable cream cheese
 - 4 Ritz crackers
+
+## Thursday (April 17, 2014)
+### Diet
+Beginning Thursday, all diet tracking moved to FitBit.
+
+## Friday (April 18, 2014)
+Slept all day. Played Civilization V.
+
+## Saturday (April 19, 2014)
+Slept all day.
