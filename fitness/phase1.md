@@ -13,8 +13,8 @@ Phase 1 begins on April 13, 2014.
 ## Methods
 ### Exercise
 
-- I will exercise for 30 minutes with a trainer on Tuesdays at 3:30pm.
-- I will exercise for 30 minutes with a trainer on Thursdays at 4:00pm.
+- E1: I will exercise for 30 minutes with a trainer on Tuesdays at 3:30pm.
+- E2: I will exercise for 30 minutes with a trainer on Thursdays at 4:00pm.
 
 ### Diet
 
