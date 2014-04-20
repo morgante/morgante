@@ -3,6 +3,8 @@ Phase 1: Week 1
 
 April 13, 2014 – April 19, 2014
 
+My ending weight was 265 lbs.
+
 ## Reflection
 This week was a decent start, but had some unfortunate mood swings over the weekend. These depressive episdes led to overeating, particularly on Saturday. Additionally, on Wednesday and Thursday I slept far too much (all afternoon) and missed my planned exercise.
 
