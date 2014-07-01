@@ -12,7 +12,7 @@ My starting weight was 260 lbs.
 
 ### Monday
 
-#### Diet
+#### [Diet](https://www.fitbit.com/foods/log/2014/06/30)
 
 Lunch (in office):
 
