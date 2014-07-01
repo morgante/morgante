@@ -10,3 +10,14 @@ My starting weight was 260 lbs.
 
 ## Progress
 
+### Monday
+
+#### Diet
+
+Lunch (in office):
+
+- 1 plain bagel with plain cream cheese
+
+Dinner (alone, at home):
+
+- 3 slices of plain cheese pizza
